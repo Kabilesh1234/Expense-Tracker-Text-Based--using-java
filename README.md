@@ -19,7 +19,7 @@ A simple command-line based expense tracker application built using **Java**. Th
 
 ## 💡 How to Use  
 1. Clone the repository:  
-   git clone https://github.com/yourusername/expense-tracker-java.git  
+   git clone https://github.com/Kabilesh1234/Expense-Tracker-Text-Based--using-java.git
 2. Navigate to the project directory:
    cd expense-tracker-java  
 3. Compile the Java file:
