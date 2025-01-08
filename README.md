@@ -18,7 +18,7 @@ A simple command-line based expense tracker application built using **Java**. Th
 ---
 
 ## 📸 Preview  
-![To-Do List Preview](https://via.placeholder.com/800x400?text=Project+Screenshot) 
+![ExpenseTracker  Preview](ExpenseTracker output.png) 
 
 ---
 
