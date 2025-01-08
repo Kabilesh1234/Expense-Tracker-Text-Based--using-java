@@ -17,6 +17,11 @@ A simple command-line based expense tracker application built using **Java**. Th
 
 ---
 
+## 📸 Preview  
+![To-Do List Preview](https://via.placeholder.com/800x400?text=Project+Screenshot) 
+
+---
+
 ## 💡 How to Use  
 1. Clone the repository:  
    git clone https://github.com/Kabilesh1234/Expense-Tracker-Text-Based--using-java.git
